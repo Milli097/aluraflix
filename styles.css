@@ -1,0 +1,68 @@
+body {
+    color:darksalmon;
+    background:rgb(0, 19, 139);
+    margin: 0px;
+     font-familly: "Playwrite Cuba ",sans-serif; 
+    margin-bottom: 100px;
+}
+header{
+   border-bottom: solid 2px dimgray;
+   padding: 20px;
+   font-size: 32px;
+   color:rgb(219, 191, 14);
+}
+
+.chamada {
+   background:rgb(151, 79, 219);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+
+.chamada-texto {
+   margin-right: 5%;
+   
+
+}
+h1 {
+    font-size: 40px;
+}
+
+p1 {
+     font-size: 20px;
+}
+
+img{
+   height:200px;
+}
+
+.categoria-video {
+   display: flex;
+    overflow: auto;
+gap: 10px
+}
+
+  section{
+ 
+   padding-left: 20px;
+padding-right: 20px;
+  }
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categoria-video-ing:hover {
+     opacity:1,0;
+     border: 1px solid gold;
+}
+
+.categoria h2 {
+    color:blueviolet
+
+
+
+
+
+
+
